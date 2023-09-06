@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "description": "Kasir yang bisa membuat Anda bertanya-tanya",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Kasir.id",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Kasir.id",
+  "start_url": "/",
+  "theme_color": "#00ff87",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}

@@ -1,0 +1,15 @@
+@font-face {
+    font-family: barcode;
+    src: url(../fonts/barcode.ttf);
+}
+
+.barcode{
+    font-family: 'barcode';
+    font-size: 100px;
+    color: black;
+}
+.barcodeprint{
+    font-family: 'barcode';
+    font-size: 100px;
+    color: black;
+}
